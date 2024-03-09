@@ -15,4 +15,4 @@ The Horus Heresy is *long*, clocking in at about 7,484,862 words. For reference,
 The top character is Loken with 217,993 words, around 2.91% of total words in the series. For reference, Loken's perspective takes up approximately 1.86 books based on average length per book.
 
 Figure 2a. Top 10 characters by total words
-"""![alt text](https://github.com/sklavoug/horus_heresy_analysis/blob/main/2a%20-%20Top%2010%20Chars.png?raw=true)"""
+![alt text](https://github.com/sklavoug/horus_heresy_analysis/blob/main/2a%20-%20Top%2010%20Chars.png?raw=true)
