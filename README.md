@@ -1,5 +1,7 @@
 # 0 - Intro
 
+The Horus Heresy is a book series published by Black Library. Set in the year 30,000, over the course of 64 books it tells the story of the Primarch Horus betraying the Emperor and attempting to wrest control of the Imperium for himself.
+
 I'm not a great painter and I don't think I've ever won a game of 40k, but I'm a data analyst and I absolutely loved the series. I was up to about book 4 when I realised that the series itself was long enough and granular enough to be a dataset. Bought all the ebooks as I was reading them and essentially tagged each section with characters' perspectives; this exercise is pretty trivial for other series like Wheel of Time or A Song of Ice and Fire because chapters are named after their characters' perspective, but here's the Horus Heresy changing perspectives multiple times in each chapter, and on a few occasions, in a single sentence (looking at you Dan Abnett).
 
 What I'm left with is 7,180 instances of perspectives for 739 characters total. Worth mentioning this is *all* characters, including ones whose perspective lasts a few words until they're squished by a Space Marine (or, in one very specific instance, from a knife's perspective). The dataset is open and available in the 'data' folder. Hopefully there's no copyright issues here, I've only released book and character names/affiliations which is less information than the wiki pages have (see the appendix for more detail on what's included in each of the csv files).
