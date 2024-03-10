@@ -62,7 +62,8 @@ Interesting, another unexpected result! The Protagonists are pretty sparse: just
 
 Well that about wraps up the characters, it's on to part 3: the Legions!
 
- # 3. LegionsAlthough the series features characters from all sorts of backgrounds, species, and affiliations, it's absolutely a story about the Astartes. The Space Marines occupy just over 50% of the series with their perspectives, although if you include the Primarchs they're over 2/3rds of the series (as seen in Table 2a). Each of the Astartes (barring one character) are descended from one of 18 Legions, which aren't necessarily equally represented.
+ # 3. Legions
+Although the series features characters from all sorts of backgrounds, species, and affiliations, it's absolutely a story about the Astartes. The Space Marines occupy just over 50% of the series with their perspectives, although if you include the Primarchs they're over 2/3rds of the series (as seen in Table 2a). Each of the Astartes (barring one character) are descended from one of 18 Legions, which aren't necessarily equally represented.
 
 **Figure 3a. Sum of words by Legion**
 [alt text](https://github.com/sklavoug/horus_heresy_analysis/blob/main/3a%20-%20Sum%20of%20words%20by%20Legion.png?raw=true)
@@ -73,7 +74,8 @@ Enough about the bottom 2 though, let's dig into the other legions a bit here. F
 
 Tl;dr: The Knights-Errant are included in their original Legion by default and will be flagged when they've been excluded. Continuing on with the Legions, we can look at how many books they appear in and average out their words (much like the previous section), but we have another dimension here which is number of characters for each Legion.
 
-**Table 3a. Words per book and per character by Legion**| Affiliation       |   Number of Books |   Number of Characters |   words |   Avg_per_book |   Avg_per_char |
+**Table 3a. Words per book and per character by Legion**
+| Affiliation       |   Number of Books |   Number of Characters |   words |   Avg_per_book |   Avg_per_char |
 |:------------------|------------------:|-----------------------:|--------:|---------------:|---------------:|
 | Alpha Legion      |                 5 |                      8 |   54094 |          10819 |           6762 |
 | Blood Angels      |                16 |                     23 |  175539 |          10971 |           7632 |
@@ -111,7 +113,8 @@ From Figure 3c we can see that the Salamanders and Thousand Sons are the top Leg
 So yeah, I guess that about wraps up my analysis. Not much else to talk about here, just characters and Legions...nah just kidding, let's get to what you're really here for: the Primarchs!
 
 # Appendix
-**Column names and descriptions in perspective_words.csv**|    | Column         | Desc                                                                                                                                                                                                                                                               |
+**Column names and descriptions in perspective_words.csv**
+|    | Column         | Desc                                                                                                                                                                                                                                                               |
 |---:|:---------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  0 | Book_Num       | Book number in the series                                                                                                                                                                                                                                          |
 |  1 | Chapter_Num    | Chapter number in the current book                                                                                                                                                                                                                                 |
