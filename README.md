@@ -66,7 +66,7 @@ Well that about wraps up the characters, it's on to part 3: the Legions!
 Although the series features characters from all sorts of backgrounds, species, and affiliations, it's absolutely a story about the Astartes. The Space Marines occupy just over 50% of the series with their perspectives, although if you include the Primarchs they're over 2/3rds of the series (as seen in Table 2a). Each of the Astartes (barring one character) are descended from one of 18 Legions, which aren't necessarily equally represented.
 
 **Figure 3a. Sum of words by Legion**
-[alt text](https://github.com/sklavoug/horus_heresy_analysis/blob/main/3a%20-%20Sum%20of%20words%20by%20Legion.png?raw=true)
+![alt text](https://github.com/sklavoug/horus_heresy_analysis/blob/main/3a%20-%20Sum%20of%20words%20by%20Legion.png?raw=true)
 
 Figure 3a shows the sum of words per Legion, with the Sons of Horus being top with over 500K, followed by the Dark Angels with 330K and the Ultramarines with 308K. Without a doubt, the lowest are the Night Lords (81K) and Alpha Legion (54K). It's worth noting here that the Alpha Legion makes sense as we rarely actually see their perspective, and interact far more with their human agents or Alpharius/Omegon; it's similar for the Night Lords, as the majority of their story is told via Konrad Curze himself. If you include non-Astartes characters for these factions, their totals increase to 171K for the Alpha Legion and 99K for the Night Lords.
 
