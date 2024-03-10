@@ -14,5 +14,24 @@ The Horus Heresy is *long*, clocking in at about 7,484,862 words. For reference,
 
 The top character is Loken with 217,993 words, around 2.91% of total words in the series. For reference, Loken's perspective takes up approximately 1.86 books based on average length per book.
 
-Figure 2a. Top 10 characters by total words
+**Figure 2a. Top 10 characters by total words**
 ![alt text](https://github.com/sklavoug/horus_heresy_analysis/blob/main/2a%20-%20Top%2010%20Chars.png?raw=true)
+
+**Table 2a. Word count by species**
+| Species          |            words |     % |
+|:-----------------|-----------------:|------:|
+| Astartes         |      3.93553e+06 | 53.73 |
+| Human            |      1.81665e+06 | 24.8  |
+| Primarch         |      1.03757e+06 | 14.17 |
+| Perpetual        | 251923           |  3.44 |
+| Custodes         | 137261           |  1.87 |
+| Daemon           |  54324           |  0.74 |
+| Pariah           |  50272           |  0.69 |
+| Eldar            |  15864           |  0.22 |
+| Thunder Warriors |  11082           |  0.15 |
+| Knife            |   9540           |  0.13 |
+| Progenitor       |   4089           |  0.06 |
+| Lacrymole        |    358           |  0    |
+| Tyranids         |    198           |  0    |
+
+Interestingly, the top 10 is quite diverse. There are 5 Astartes, 3 Primarchs, a Perpetual, and a random human. This doesn't *quite* align with the overall stats by species (see Table 2a), but it's correct on Astartes at least (and yes, I did put 'Knife' as a species). The top words are only part of the story part of the story for characters, however. If we look at the same characters by words per book, a different picture emerges.
